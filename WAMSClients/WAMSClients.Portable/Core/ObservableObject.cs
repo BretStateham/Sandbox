@@ -6,7 +6,7 @@ using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WAMSClients.Portable.ViewModel
+namespace WAMSClients.Portable.Core
 {
   public class ObservableObject : INotifyPropertyChanged
   {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WAMSClients.Portable.Model
+namespace WAMSClients.Portable.Core
 {
   public static class ServiceLocator 
   {
