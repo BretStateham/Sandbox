@@ -34,14 +34,15 @@
   </PropertyGroup>
   <ItemGroup>
     <!-- A reference to the entire .NET Framework is automatically included -->
-    <Folder Include="Core\" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Core\ViewModelBase.cs" />
     <Compile Include="Model\DemoTable.cs" />
-    <Compile Include="Model\IDataService.cs" />
-    <Compile Include="Model\ServiceLocator.cs" />
+    <Compile Include="Service\IDataService.cs" />
+    <Compile Include="Core\ServiceLocator.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ViewModel\ObservableObject.cs" />
+    <Compile Include="Core\ObservableObject.cs" />
+    <Compile Include="ViewModel\MainViewModel.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\Portable\$(TargetFrameworkVersion)\Microsoft.Portable.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
