@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorld_Droid/MainActivity.cs">
+    <Files>
+      <File FileName="HelloWorld_iOS/HelloWorld_iOSViewController.cs" Line="27" Column="42" />
+      <File FileName="HelloWorld_iOS/HelloWorld_iOSViewController.designer.cs" Line="13" Column="44" />
+      <File FileName="HelloWorld_Droid/MainActivity.cs" Line="25" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.HelloWorld__Droid MonoForAntroid.PreferredDevice="3.7in WVGA (Nexus One)" />
+</Properties>
